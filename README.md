@@ -5,7 +5,6 @@ I am a Business Data Analyst with hands-on experience across the Telecommunicati
 
 In today’s data-driven landscape, companies that fail to transform raw data into actionable insights risk inefficiency, higher costs, and lost opportunities.
 My expertise bridges this gap, turning complex datasets into clear stories and solutions that directly support business growth.
-           <img width="2113" height="1" alt="image" src="https://github.com/user-attachments/assets/bbdbf64c-6372-468c-b028-d3065212982e" />
            
 # My Unique Strengths
 
@@ -13,7 +12,6 @@ My expertise bridges this gap, turning complex datasets into clear stories and s
 * Analytical Thinking: I uncover hidden patterns and drivers behind KPIs to identify cost drivers, revenue leaks, and process inefficiencies.
 * Storytelling with Data: Beyond numbers, I deliver insightful reports and dashboards that guide strategic decision-making.
 * Adaptability: Skilled in working with cross-functional teams and quickly adapting to new industries.
-  <img width="2113" height="1" alt="image" src="https://github.com/user-attachments/assets/7e8d2457-1cb8-4e29-bbb7-27d2c08ad8ce" />
   
 # What I Offer as an Analyst
 I bridge the gap between business needs and data-driven solutions. 
@@ -28,27 +26,24 @@ I combine structured problem-solving with a data-driven mindset:
 * Apply analysis using Power BI, DAX, and Excel
 * Visualise results in interactive dashboards
 * Communicate insights in plain, actionable language
-  <img width="2113" height="1" alt="image" src="https://github.com/user-attachments/assets/650b68b1-ccdd-4b57-93d6-b8ada61ae01a" />
 
 # Industries I Am Open To
 * Sales & Retail – product performance, customer segmentation, revenue optimisation (Mondo Market Project)
 * Telecommunications – customer churn, service efficiency, cost analysis
 * Healthcare – patient outcomes, cost reduction, operational efficiency (MGH Project)
 * Human Resources (HR) – workforce planning, attrition analysis, employee engagement
-  <img width="603" height="10" alt="image" src="https://github.com/user-attachments/assets/c362407c-5567-44a7-ab6f-2bece41b2985" />
+  
 
 # Core Competencies
 * Requirement Gathering & Process Mapping
 * Data Cleaning & Visualisation
 * Dashboard Design & Data Storytelling
-  <img width="603" height="10" alt="image" src="https://github.com/user-attachments/assets/6c3a78ea-cfad-42bd-81fc-c6ac18a03919" />
 
 # Technical Skills
 * Data Analytics & BI: Power BI, SQL, Excel, DAX
 * Data Preparation: Power Query, Data Transformation, Data Modelling
 * Analysis: Trend Analysis, Cost Analysis, Readmission/Retention Analysis, Variance Analysis
 * Documentation: Business Cases, Requirement Specifications, User Stories
-  <img width="2113" height="1" alt="image" src="https://github.com/user-attachments/assets/a8250029-a400-476e-ae21-d95f26748187" />
 
 # Soft Skills
 * Strong Communication & Stakeholder Engagement
